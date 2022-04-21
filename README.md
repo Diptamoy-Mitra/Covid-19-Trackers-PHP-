@@ -1,6 +1,6 @@
 # Covid-19-Trackers-PHP-
 Basic COVID-19 Cases Trackers Site <br>
-Project Hosted link  :- https://diptamoy-covid-19-tracker.herokuapp.com/
+Project Hosted link  :-https://diptamoy-covid-19-tracker.herokuapp.com/
 # Covid-19-Tracker 🚨 This project provides updates to the current outbreak of Coronavirus (COVID-19). 
 ## Demontrations
 <p align="center">
